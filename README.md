@@ -196,7 +196,7 @@ It includes concepts and tools for:
 
 Open C.H.A.I.N. is designed around a simple idea:
 
-Decentralized systems should serve people, not recreate the same exploitative structures with different branding.
+Decentralized systems should be easy to create, serve people, not recreate the same exploitative structures with different branding.
 
 ---
 
@@ -253,22 +253,18 @@ Healthcare should not be a luxury product.
 
 ## Redacta Pro
 
-**Redacta Pro** is a document redaction and evidence-preparation tool designed for high-volume records work.
+**Redacta Pro** is a document and audio and video redaction and evidence-preparation tool designed for high-volume records work.
+It can do 129 hours of government quoted work in less than 5 minutes. And that's just the document side!
 
 It is built for situations where people need to redact, process, organize, and prepare large volumes of sensitive documents quickly and safely.
 
 It supports the broader mission of public records work, investigations, evidence review, legal preparation, and accountability research.
 
----
-
-## Body Camera Redaction & Review Tools
-
-We are building tools to process body camera footage and other sensitive video evidence.
-
-The goal is to support:
+It will be released soon and has the following features:
 
 - face detection
 - selective redaction
+- location/setting based redaction
 - subtitles
 - phrase-based audio redaction
 - safer public release
@@ -278,7 +274,7 @@ The goal is to support:
 
 Body camera footage can expose truth, but it can also expose victims, witnesses, children, medical crises, and private moments.
 
-Good accountability tools must protect both transparency and human dignity.
+Good accountability tools must protect both transparency and human dignity. This tool if implemented by just a relative handful of agencies will save tax payers millions of dollars a year and tens/potentially hundreds of thousand in government hours. We offer this tool with free onboarding and lifetime support to any government agency who is interested.
 
 ---
 
@@ -292,7 +288,8 @@ This includes work around:
 
 - low-cost pump systems
 - medical-grade fluid-path considerations
-- Automated wearable narcan injectors
+- automated wearable narcan injectors
+- custom dosing machines
 - open-source hardware
 - research devices
 - possible future medical technology platforms
