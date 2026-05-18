@@ -266,6 +266,7 @@ It will be released soon and has the following features:
 - selective redaction
 - location/setting based redaction
 - subtitles
+- physical object redaction(soon to be feature)
 - phrase-based audio redaction
 - safer public release
 - faster evidence review
