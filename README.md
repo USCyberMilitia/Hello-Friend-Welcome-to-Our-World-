@@ -420,7 +420,7 @@ We are building tools for the people who refuse to look away.
 We believe technology should be:
 
 - open when possible
-- secure when necessary
+- as secure as possible
 - transparent when power is involved
 - privacy-preserving by default
 - accessible to ordinary people
@@ -470,7 +470,7 @@ Some are being prepared for release.
 Some are still being hardened.  
 Some are waiting for documentation, testing, or community onboarding.
 
-We are moving fast, but we are also learning to stabilize, document, and make these tools easier for others to use safely.
+We are moving fast, but we are also learning to stabilize, document, and make these tools easier for others to use safely. Many of our tools are internal tools we are now releasing. Some of them will be upgraded soon.
 
 ---
 
